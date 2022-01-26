@@ -1,2 +1,2 @@
-# Learnings
-For testing and learning purpose.
+# Welcome
+This repo is only to test and learn.
